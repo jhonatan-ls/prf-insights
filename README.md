@@ -22,7 +22,7 @@ Pipeline completo de Ciência de Dados aplicado aos dados abertos de acidentes d
 ## Arquitetura do Projeto
 
 ```
-dados_prf/
+prf-insights/
 │
 ├── dados_brutos/              # CSVs originais da PRF (não versionados)
 ├── dados_tratados/            # Dados limpos e resultados intermediários (não versionados)
@@ -62,8 +62,8 @@ dados_prf/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/beaverbit/dados_prf.git
-cd dados_prf
+git clone https://github.com/beaverbit/prf-insights.git
+cd prf-insights
 ```
 
 ### 2. Crie as pastas necessárias
